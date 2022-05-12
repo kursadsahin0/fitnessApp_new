@@ -1,6 +1,7 @@
 # fitness_app1
 
 A new Flutter project.
+THIS APP INCLUDE FIREBASE!!!!!!!!
 
 ## Getting Started
 
